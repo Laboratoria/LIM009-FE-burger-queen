@@ -99,58 +99,6 @@ que es una herramienta de Google que nos ayuda a asegurar que nuestras web apps
 sigan "buenas prácticas". De hecho, usaremos Lighthouse a la hora de evaluar el
 proyecto.
 
-Recuerda colocar en esta seccion los objetivos de aprendizaje que quedaron 
-pendientes de tu proyecto anterior.
-
-### HTML y CSS
-
-- [ ] HTML semántico
-- [ ] CSS flexbox
-- [ ] Sass
-- [ ] Maquetación
-
-### Angular
-
-- [ ] Directivas estructurales (ngIf / ngFor)
-- [ ] Estilos de componentes (ngStyle / ngClass)
-- [ ] Manejos de rutas
-- [ ] Creación y uso de servicios
-- [ ] Creación y uso Observables
-- [ ] Uso de HttpClient
-- [ ] Uso de Modulos
-- [ ] @Input | @Ouput
-
-### PWA
-
-### React
-
-### Firebase
-
-- [ ] Firestore
-- [ ] Firebase security rules
-- [ ] Observables
-
-### Testing
-- [ ] Testeo de tus interfaces
-- [ ] Testeo asíncrono
-- [ ] Mocking
-
-### Git y Github
-
-- [ ] Colaboración en Github
-- [ ] Organización en Github
-
-### Buenas prácticas de desarrollo
-
-- [ ] Modularización
-- [ ] Componentes
-- [ ] Manejo del estado de tu aplicacion
-- [ ] Nomenclatura / Semántica
-- [ ] Linting
-
-
-***
-
 ## Consideraciones
 
 Este proyecto se debe "resolver" de a pares.
